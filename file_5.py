@@ -1,4 +1,4 @@
-a = [i*2 for i in range(10)]
+a = [i*5 for i in range(11)]
 print(a)
-b = [i**2 for i in range(10)]
+b = [i**3 for i in range(12)]
 print(b)
